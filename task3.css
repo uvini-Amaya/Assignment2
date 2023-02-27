@@ -1,0 +1,169 @@
+.card{
+    color:darkblue;
+    background: mediumpurple;
+    margin-top: 10px;
+
+}
+
+.card-title{
+    color: white;
+    font-size: large;
+    font-family: Gabriola;
+    margin-left: 50px;
+
+}
+
+.card-img-top {
+    border-radius: 100%;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+    height:90px;
+}
+
+
+
+.card-text{
+    font-family: Arial;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.h1-text{
+    font-family: Calibri;
+}
+
+.h3-text{
+    font-family: Bahnschrift;
+}
+
+.content{
+    background:darkblue;
+    width:100%;
+    height: 75%;
+}
+
+.text3{
+    font-size:x-large;
+    font-family:initial;
+    color: white;
+}
+
+.text4{
+    font-size: large;
+    font-family: "Arial Black";
+    color:lightblue;
+
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button{
+    margin-left: 50px;
+    margin-bottom: 10;
+}
+
+
+.image{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+
+.imagefooter{
+    margin-left: 75px;
+    width:30%;
+    height: 10%;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+
+.imagefooter1{
+    margin-left: 75px;
+    width:30%;
+    height: 10%;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+
+.points{
+    color: white;
+}
+
+
+.insideflex1{
+    background: lightblue;
+    color: darkblue;
+    border: 2px solid darkblue;
+    width: 30%;
+    height: 60%;
+
+}
+
+.insideflex{
+    background: lightblue;
+    color: black;
+    border: 2px solid darkblue;
+    width: 20%;
+    height: 39%;
+
+}
+
+.flex3{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.fixed-image{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+
+.blue{
+    background: blue;
+    padding:30 px;
+    height: 600px;
+    width: 100%;
+    border-radius: 2px solid black;
+}
+
+
+.bluetext{
+    color: white;
+    font: x-large;
+    margin-left:10px;
+
+}
+
+.text6{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    color: black;
+    border: 2px solid darkblue;
+    background: lightblue;
+    width:30%;
+}
+
+.h31{
+    color: plum;
+    font-size: large;
+    margin-top: 30px;
+
+}
